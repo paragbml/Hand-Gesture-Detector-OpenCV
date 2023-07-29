@@ -9,9 +9,8 @@ Prerequisite Imports:
 -Import Mediapipe Library, Numpy, OpenCV pypi
 
 Import the Git in desired IDE, and run the app.py file.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Test Run Images
 
-Test Run Images
 ![Screenshot from 2023-07-29 23-19-42](https://github.com/paragbml/Hand-Gesture-Detector-OpenCV/assets/121299349/3a0f7123-6cbc-4672-88a3-2f79997f123c)
 
 ![Screenshot from 2023-07-29 23-19-11](https://github.com/paragbml/Hand-Gesture-Detector-OpenCV/assets/121299349/5b31f845-2ebc-4b81-bbcc-ec44146eaca9)
